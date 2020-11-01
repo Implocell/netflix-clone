@@ -10,7 +10,7 @@ export function FooterContainer() {
 					<Footer.Link href="#">FAQ</Footer.Link>
 					<Footer.Link href="#">Investor Relations</Footer.Link>
 					<Footer.Link href="#">Ways to watch</Footer.Link>
-					<Footer.Link href="#">Corprorate Information</Footer.Link>
+					<Footer.Link href="#">Corporate Information</Footer.Link>
 					<Footer.Link href="#">Netflix Originals</Footer.Link>
 				</Footer.Column>
 				<Footer.Column>
